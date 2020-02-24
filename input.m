@@ -1,5 +1,5 @@
 
-img = im2double(imread('/Users/christianchaumette-borwn/Downloads/lena_noisy.jpg'));
+img = im2double(imread('lena_noisy.jpg'));
 patch_size=[3,3];
 %patch_size= [5,5];
 
